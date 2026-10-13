@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+models/*.keras
+models/*.h5
+best_model.keras
+.DS_Store

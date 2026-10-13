@@ -1,0 +1,1 @@
+This folder is populated by `python train_model.py --data_dir PATH --epochs 5`. Model binaries are excluded from Git by `.gitignore` because they can be large. The application requires both `plant_disease_model.keras` and `class_names.json`.
